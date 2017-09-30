@@ -7,4 +7,4 @@ Note:
   1. Only 1 quantity of each item
   2. Cannot split an item (0/1)
 
-[[https://github.com/MariosGeorgiou/DynamicProgramming/blob/master/image_example.png]]
+![example](https://github.com/MariosGeorgiou/DynamicProgramming/blob/master/image_example.png)
